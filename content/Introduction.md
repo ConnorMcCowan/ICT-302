@@ -10,4 +10,6 @@ My name is Alan Morgdum. Alan am a Kobold from The Forgotten Realms. Am currentl
  - Swinging metal stick
  - Chewing
 
+![kobold](https://user-images.githubusercontent.com/70035544/91672116-3c24f500-eafa-11ea-9e71-15eeb5b8aadc.jpg "The Alan Morgdum")
+
 [https://twitter.com/stevewoodgames/](https://twitter.com/stevewoodgames/ "This is credit to the person who painted Alan's portrait.") 
