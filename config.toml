@@ -42,18 +42,18 @@ url = "/introduction/"
 
 [params]
 [[menu.main]]
-name = "Annotated Definitions"
+name = "annotated"
 weight = 1
 url = "/annotated/"
 
 [params]
 [[menu.main]]
-name = "Resource Guide"
+name = "resource_guide"
 weight = 1
 url = "/resource_guide/"
 
 [params]
 [[menu.main]]
-name = "Walkthrough"
+name = "walkthrough"
 weight = 1
 url = "/walkthrough/"
