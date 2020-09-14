@@ -1,6 +1,6 @@
 baseURL = "https://hopeful-tereshkova-0e92fd.netlify.app/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "ICT 302 Hugo Site"
 theme = "ananke"
 
 [build]
