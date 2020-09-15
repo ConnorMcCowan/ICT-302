@@ -40,19 +40,16 @@ name = "Introduction"
 weight = 1
 url = "/introduction/"
 
-[params]
 [[menu.main]]
 name = "annotated"
 weight = 1
 url = "/annotated/"
 
-[params]
 [[menu.main]]
 name = "resource_guide"
 weight = 1
 url = "/resource_guide/"
 
-[params]
 [[menu.main]]
 name = "walkthrough"
 weight = 1
