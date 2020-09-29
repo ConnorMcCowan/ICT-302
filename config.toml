@@ -1,7 +1,7 @@
 baseURL = "https://hopeful-tereshkova-0e92fd.netlify.app/"
 languageCode = "en-us"
 title = "ICT 302 Hugo Site"
-theme = "hugo-scroll-master"
+theme = "hugo-theme-m10c-master"
 
 [build]
 publish = "public"
